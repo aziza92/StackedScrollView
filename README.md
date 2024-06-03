@@ -9,7 +9,7 @@
 This repository contains a SwiftUI implementation of a Stacked ScrollView, similar to the one found in the iOS LockScreen. The project aims to recreate the smooth, intuitive scrolling and stacking behavior seen in the iOS LockScreen, using SwiftUI.
 
 #
-![](https://github.com/aziza92/MapPin/assets/64699474/c6c4fd9d-6381-4479-9b70-270784923386.gif)
+![](https://github.com/aziza92/StackedScrollView/assets/64699474/58bad007-7667-43b6-a3c3-cf89f740131d.gif)
 
 - **SwiftUI**: This project is built entirely using SwiftUI, Apple's innovative and easy-to-use UI toolkit.
 
