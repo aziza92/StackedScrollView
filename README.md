@@ -32,4 +32,4 @@ Contributions to this project are welcome! If you find a bug or think of a new f
 
 Copyright © 2024 Aziza Elgoul
 
-This project is licensed under the MIT License [MIT](https://opensource.org/license/mit). See the LICENSE file for more details.
+This project is licensed under the [MIT](https://opensource.org/license/mit) License. See the LICENSE file for more details.
